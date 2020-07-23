@@ -1,0 +1,10 @@
+### The settings has been added for repository to normalize line endings.
+### It follows references:
+# http://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/
+# https://help.github.com/articles/dealing-with-line-endings/#platform-all
+# https://git-scm.com/docs/gitattributes
+
+
+
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=false
